@@ -133,6 +133,6 @@ The system provides:
 ## 👩‍💻 Author
 
 **Meenakshi Pandey**  
-B.Tech (AI & ML)2nd year students
+B.Tech (AI & ML)2nd year student
 
 ⭐ If you like this project, consider giving it a star ⭐
